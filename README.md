@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjana Sripada</h1>
 <h3 align="center">Aspiring Full Stack Developer | CSE Undergraduate | Passionate about Building Responsive Web Applications</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjanasripada12" alt="sanjanasripada12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SanjanaSripada12" alt="SanjanaSripada12" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Development and AI based projects**
 
